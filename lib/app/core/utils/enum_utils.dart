@@ -1,0 +1,1 @@
+enum LoadDataStatus { INITIAL, LOADING, SUCCESS, FAILURE }
